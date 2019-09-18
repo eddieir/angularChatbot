@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "/home/eddie/Desktop/Angular_tut/ChatBotAngular/angulat-chatbot/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
